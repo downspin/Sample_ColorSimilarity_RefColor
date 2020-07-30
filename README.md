@@ -1,0 +1,2 @@
+# Sample_ColorSimilarity_RefColor
+# Sample_ColorSimilarity_RefColor
